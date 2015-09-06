@@ -1,0 +1,3 @@
+# TestActivityAnimation
+这是一个Activity个性化跳转动画的测试程序，通过这个程序，介绍了使用canvas实现Activity跳转动画的方法；
+该程序是仿照网上的某个开源程序写的，具体忘了，如有侵权，请联系本人，我会尽快关闭该程序；
